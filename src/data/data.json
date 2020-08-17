@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "name": "Rick Sanchez",
+        "img": "rick.png",
+        "info": "blah blah blah",
+        "color": "teal"
+    },
+    {
+        "id": 2,
+        "name": "Morty Smith",
+        "img": "morty.png",
+        "info": "blah blah blah",
+        "color": "yellow"
+    },
+    {
+        "id": 3,
+        "name": "Beth Smith",
+        "img": "beth.png",
+        "info": "blah blah blah",
+        "color": "red"
+    },
+    {
+        "id": 4,
+        "name": "Summer Smith",
+        "img": "summer.png",
+        "info": "blah blah blah",
+        "color": "pink"
+    }
+]
